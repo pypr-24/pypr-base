@@ -1,4 +1,4 @@
-name: pypr23
+name: pypr-24
 channels:
     - conda-forge
 dependencies:
